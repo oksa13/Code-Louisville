@@ -10,12 +10,12 @@ Included:<br><br>
     css folder: <br>style.css- this is for main page. 
                       <br>  It includes a "hamburger menu". <br>
                 <br>thumbnail-gallery-day1- This is for Day 1.<br>
-                day2.css- This is for Day 2. 
-                    Progress bar for the slide show has been included. <br>
+                <br>day2.css- This is for Day 2. <br>
+                   <br> Progress bar for the slide show has been included. <br>
     <br>
-    img folder: Includes all the img for the website plus a few extra ones that I decided against, but they are still pictures of Ukraine <br><br>
+    img folder: Includes all the img for the website plus a few extra ones that I decided against, but they are still pictures of Ukraine. <br><br>
     Js folder: <br>
-    index.js- this includes the code for elements on the page as well as prompts for clicking logo. The user can show/hide one or more content areas or elements on the site through clicking a button or some other user interaction.
+    index.js- this includes the code for elements on the page as well as prompts when clicking logo. The user can show/hide one or more content areas or elements on the site through clicking a button or some other user interaction.
 <br>
     <br> Daytwo.js-this includes the code for  the picture slideshow. Hope you enjoy this website!<br>
     
