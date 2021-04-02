@@ -1,6 +1,6 @@
-//this will alert the user when the logo is clicked that the homepage will be created soon
-const myMessage = ('Out Adventuring! Home Webpage Coming Soon');
-const myMessageDays = ('Out Adventuring! This Journey Will Be Added Soon');
+
+const myMessage = ('Home Webpage Coming Soon');
+const myMessageDays = ('This Journey Will Be Added Soon');
 
 function myFunction(myMessage) {
     alert(myMessage);
@@ -8,23 +8,23 @@ function myFunction(myMessage) {
 function myFunction(myMessageDays) {
     alert(myMessageDays);
 }
-//this starts the Code for the 2nd Day Journey
+
 
 var slideIndex = 1;
 showSlides(slideIndex);
 
-// Next/previous controls
+
 function plusSlides(n) {
     showSlides(slideIndex += n);
 }
 
-// Thumbnail image controls
+
 function currentSlide(n) {
     showSlides(slideIndex = n);
 }
 
 function showSlides(n) {
-    //this starts the Code for the 2nd Day Journey 
+    
     var slideIndex = 0;
     showSlides();
 
@@ -42,6 +42,6 @@ function showSlides(n) {
         }
         slides[slideIndex - 1].style.display = "block";
         dots[slideIndex - 1].className += " active";
-        setTimeout(showSlides, 5000); // Change image every 5 seconds
+        setTimeout(showSlides, 5000); 
     } seconds
 }
