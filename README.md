@@ -11,7 +11,7 @@ Included:<br><br>
                       <br>  It includes a "hamburger menu". <br>
                 <br>thumbnail-gallery-day1- This is for Day 1.<br>
                 <br>day2.css- This is for Day 2. <br>
-                   <br> Progress bar for the slide show has been included. <br>
+                 Progress bar for the slide show has been included. <br>
     <br>
     img folder: Includes all the img for the website plus a few extra ones that I decided against, but they are still pictures of Ukraine. <br><br>
     Js folder: <br>
