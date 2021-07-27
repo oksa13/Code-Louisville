@@ -1,0 +1,35 @@
+general styling
+ {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: yellow
+  }
+  
+  body {
+    align-items: center;
+  } 
+
+.countdown {
+text-align: center;
+}
+
+  .time {
+    color: rgb(243, 241, 128);
+    margin: 0 auto;    
+    text-align: center;
+  }
+  
+  
+  .countTime {
+    /* display: inline-block; */
+    font-size: 1.25em;
+    list-style-type: none;
+    padding: 5px;
+    background-color: rgb(238, 234, 8);
+    text-align: center;
+    box-shadow: 3px 3px 5px rgba(0,0,0,.8) 
+  }
+  
+ 
