@@ -28,6 +28,22 @@
    </header>
   </div>
 
+  <div class="weatherWidget" ></div>
+
+<script>
+   window.weatherWidgetConfig =  window.weatherWidgetConfig || [];
+   window.weatherWidgetConfig.push({
+       selector:".weatherWidget",
+       apiKey:"R7XBBYDNZHPDLRXPSUED9W3GS", //Sign up for your personal key
+       location:"Lviv, Ukraine", //Enter an address
+       unitGroup:"metric", //"us" or "metric"
+       forecastDays:5, //how many days forecast to show
+       title:"Lviv,Ukraine", //optional title to show in the 
+       showTitle:true, 
+       showConditions:true
+   });
+   </script>
+
   <body>
      <div class="primary-content">
       <h3 id="history"> A trip down memory lane!</h3>
