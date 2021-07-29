@@ -16,7 +16,7 @@ function check_Alpha(letters){
 
 function check_Email(mail){
     var regex = /^(([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5}){1,25})+([;.](([a-zA-Z0-9_\-\.]+)@{[a-zA-Z0-9_\-\.]+0\.([a-zA-Z]{2,5}){1,25})+)*$/;
-    if(regex.test(mail.myemail.value)){
+    if(regex.test(mail)){
       return true;
       alert("Congrats! This is a valid Email email");
     }
@@ -24,4 +24,11 @@ function check_Email(mail){
       alert("This is not a valid email address");
       return false;
     }
-  }
+    }
+    var contactform = document.getElementById ("contact-form")
+    contactform.addEventListener ("submit",function(e){
+console.log("hi")
+      e.preventDefault ()
+      var email = document.getElementById ("email")
+     check_Email(email.value)
+    })
