@@ -23,7 +23,13 @@ contact.js: contact form with name and email using regex. <br>
 countdown.js: countdown clock function.<br>
 weather.js: function that pulls information from weather widget (API).
     
-    
+   The following requirements were met: 
+   - Retrieve data from an external API and display data in your app (such as with fetch() or
+with AJAX) (retrieving weather)
+   - Implement a regular expression (regex) to ensure a field either a phone number or an
+email address is always stored and displayed in the same format (email in contact form)
+   - Calculate and display data based on an external factor (ex: get the current date, and
+display how many days remaining until some event) (countdown to my next trip)
 
 
 
