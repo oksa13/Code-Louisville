@@ -6,6 +6,8 @@ Please contact me for a link to run this project in Google Colab.
 
 An ipynb file can be downloaded to run this file. Google colab has to be downloaded first. https://colab.research.google.com/
 
+An breakdown file with explanations to each part from Colab has been posted on Git Hub, in order to obtain a full file please email me. 
+
 Please download the following extentions prior to running the project:
 -import pandas 
 -import matplotlib.pyplot
