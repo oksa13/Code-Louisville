@@ -16,6 +16,8 @@ The requirenments that have been met for this project are:
 - Connect to an external/3rd party API and read data into your app (Weather)
 - Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event) (Countdown clock until next trip)
 
+I look forward to working on this. 
+
 
 
 
