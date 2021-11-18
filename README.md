@@ -12,7 +12,7 @@ Please download the following extentions prior to running the project:
 
 
 The requirenments that have been met for this project are:
-- Visualize data in a graph, chart, or other visual representation of data (Population of people in different cities in Ukraine).
+- Visualize data in a graph, chart, or other visual representation of data (Population of people in different cities in Ukraine)
 - Connect to an external/3rd party API and read data into your app (Weather)
 - Calculate and display data based on an external factor (ex: get the current date, and display how many days remaining until some event) (Countdown clock until next trip)
 
